@@ -1,0 +1,3 @@
+{"data":{"port":"mongodb://localhost:27017/test"},"level":"info","message":"Database connected succesfully"}
+{"data":{"Age":23,"username":"Ramji"},"level":"info","message":"Data inserted succesfully"}
+{"data":{"Age":23,"username":"Ramji"},"level":"info","message":"Data inserted succesfully"}
