@@ -2,7 +2,7 @@
   "name": "r",
   "version": "1.0.0",
   "main": "index.js",
-  "type": "commonjs",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
@@ -10,6 +10,7 @@
   "author": "ramji",
   "license": "ISC",
   "dependencies": {
+    "@hapi/boom": "^10.0.1",
     "axios": "^1.7.9",
     "bcrypt": "^5.1.1",
     "body-parser": "^1.20.3",
